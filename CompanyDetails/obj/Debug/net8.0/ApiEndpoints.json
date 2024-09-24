@@ -1,0 +1,209 @@
+[
+  {
+    "ContainingType": "CompanyDetails.Controllers.DepartmentController",
+    "Method": "create_Department",
+    "RelativePath": "api/Department/createDepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dep",
+        "Type": "CompanyDetails.DTO.DepartmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.DepartmentController",
+    "Method": "DeleteDepartmentDetails",
+    "RelativePath": "api/Department/DeleteDepartmentByDepartmentId/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.DepartmentController",
+    "Method": "display_Department",
+    "RelativePath": "api/Department/GetEmployeesbyDepartmentId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.DepartmentController",
+    "Method": "update_details",
+    "RelativePath": "api/Department/Updatedepartmentdetails/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CompanyDetails.DTO.DepartmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.EmployeeController",
+    "Method": "create_Employee",
+    "RelativePath": "api/Employee/creaeteemployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "CompanyDetails.DTO.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.EmployeeController",
+    "Method": "DeleteEmployeeDetails",
+    "RelativePath": "api/Employee/DeleteEmployeeDetailsById/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.EmployeeController",
+    "Method": "GetEmployeeDetails",
+    "RelativePath": "api/Employee/GetEmployeeDetailsById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.EmployeeController",
+    "Method": "UpdateEmplyeeDetails",
+    "RelativePath": "api/Employee/UpdateEmployeeDetailsById/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "employee",
+        "Type": "CompanyDetails.DTO.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.RoleController",
+    "Method": "create_Department",
+    "RelativePath": "api/Role/createRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "CompanyDetails.DTO.RoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.RoleController",
+    "Method": "DeleteDepartmentDetails",
+    "RelativePath": "api/Role/DeleteRoleByRoleId/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.RoleController",
+    "Method": "display_Department",
+    "RelativePath": "api/Role/GetRoleByRoleId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyDetails.Controllers.RoleController",
+    "Method": "update_details",
+    "RelativePath": "api/Role/UpdateRoleDetails/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CompanyDetails.DTO.RoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

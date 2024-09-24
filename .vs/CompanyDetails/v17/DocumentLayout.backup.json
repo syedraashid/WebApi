@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|c:\\users\\softsuave\\source\\repos\\companydetails\\companydetails\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|solutionrelative:companydetails\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|c:\\users\\softsuave\\source\\repos\\companydetails\\companydetails\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|solutionrelative:companydetails\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|c:\\users\\softsuave\\source\\repos\\companydetails\\companydetails\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|solutionrelative:companydetails\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|c:\\users\\softsuave\\source\\repos\\companydetails\\companydetails\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|solutionrelative:companydetails\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|c:\\users\\softsuave\\source\\repos\\companydetails\\companydetails\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|solutionrelative:companydetails\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|c:\\users\\softsuave\\source\\repos\\companydetails\\companydetails\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4ABB90B-C4C1-47FC-860D-DA2210362FE3}|CompanyDetails\\CompanyDetails.csproj|solutionrelative:companydetails\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\DTO\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "CompanyDetails\\DTO\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\DTO\\CreateRoleDto.cs",
+              "RelativeToolTip": "CompanyDetails\\DTO\\CreateRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:55:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\DTO\\RoleDto.cs",
+              "RelativeDocumentMoniker": "CompanyDetails\\DTO\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\DTO\\RoleDto.cs*",
+              "RelativeToolTip": "CompanyDetails\\DTO\\RoleDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:55:02.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "CompanyDetails\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "CompanyDetails\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:49:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "CompanyDetails\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\Services\\IRoleService.cs",
+              "RelativeToolTip": "CompanyDetails\\Services\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:35:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "CompanyDetails\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\Services\\RoleService.cs",
+              "RelativeToolTip": "CompanyDetails\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:35:06.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\Repository\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "CompanyDetails\\Repository\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\softsuave\\source\\repos\\CompanyDetails\\CompanyDetails\\Repository\\RoleRepository.cs",
+              "RelativeToolTip": "CompanyDetails\\Repository\\RoleRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:26:45.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
